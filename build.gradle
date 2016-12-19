@@ -2,7 +2,7 @@ buildscript {
 	ext {
 		springBootVersion = '1.2.8.RELEASE'
 		gateVersion = '2.89.0'
-		gateAppVersion = '1.0.0.BUILD-SNAPSHOT'
+		gateAppVersion = '1.0.0.M1'
 	}
 	repositories {
 		mavenCentral()
